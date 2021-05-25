@@ -14,7 +14,7 @@ console.log(value);
 // 관리 할 수 있가.
 // 하지만 var의 경우는
 var hoyeon = "멍청이";
-var hoyeon = "양아치";
+var shoyeon = "양아치";
 console.log(hoyeon);
 // 위와 같이 재정의 하여 사용하여도 문제 없이 재정의가 되어 사용된 변수를 다시
 //사용하거나 재 역할을 하지 못하는 경우가 있다.
